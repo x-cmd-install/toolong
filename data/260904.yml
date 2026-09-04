@@ -7,7 +7,7 @@ about:
   head: 5aa22ee
   archived: false
   latestVersion: v1.4.0
-  collectedAt: 2026-09-04T19:36:47Z
+  collectedAt: 2026-09-04T20:53:49Z
 timeline:
   created: 2024-01-07
   lastCommit: 2024-04-28
@@ -80,5 +80,28 @@ total:
   openIssue: 25
   commit: 152
 ---
+path: /home/runner/.x-repo/github.com/Textualize/toolong
+collectedAt: 2026-09-04T20:53:50Z
+loc:
+  Python:
+    code: 2543
+    comments: 22
+    blanks: 465
+    files: 19
+  Toml:
+    code: 22
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 114
+    blanks: 72
+    files: 1
+total:
+  code: 2571
+  comments: 136
+  blanks: 543
+  files: 21
 ---
 
