@@ -12,6 +12,16 @@ A terminal application to view, tail, merge, and search log files (plus JSONL).
 x install toolong
 ```
 
+## Code insight
+
+Total: **2,565** lines of code across **21** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 2,543 | 22 | 465 | 19 |
+| Toml | 22 | 0 | 6 | 1 |
+| Markdown | 0 | 114 | 72 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Textualize/toolong>
@@ -35,19 +45,22 @@ x install toolong
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 2 | 1 | 2 | 0 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 2 | 1 | 2 | 0 |
+| last720d | 2024-09-21 | 0 | 0 | 7 | 1 | 10 | 0 |
 
-## Code size
+## Distribution status
 
-Total: **2,565** lines of code across **21** files in the top 5 languages.
+Reported by **13** distros on [repology.org](https://repology.org/project/toolong). **10** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 2,543 | 22 | 465 | 19 |
-| Toml | 22 | 0 | 6 | 1 |
-| Markdown | 0 | 114 | 72 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.5.0` | ✅ latest |
+| Debian 14 | `1.5.0` | ✅ latest |
+| Nix unstable | `1.5.0` | ✅ latest |
 
 ## Improve this data
 
@@ -58,4 +71,4 @@ Install metadata for toolong lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:51:50Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:07:43Z._
